@@ -1,0 +1,2 @@
+# BlackjackServer
+Cybernetica proovitöö
